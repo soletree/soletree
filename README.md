@@ -1,9 +1,5 @@
 ## [@soletree🌲](https://github.com/soletree)
 
-
-### Activity
-(2022.09.17.~) 멋쟁이사자처럼 앱스쿨 1기 
-
 ### Learning
 <div style="display: inline">
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white"/>
