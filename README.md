@@ -27,7 +27,3 @@
 
 ### How to reach me
 ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hmheo128@gmail.com)
-
-
-## Github Stats
-[![soletree's GitHub stats](https://github-readme-stats.vercel.app/api?username=soletree)](https://github.com/anuraghazra/github-readme-stats)
